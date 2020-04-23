@@ -6,3 +6,6 @@ Before I moved into the world of coding, I joined the non-profit organization "T
 
 # Data Sources
 Data was taken from the U.S. Department of Education's EDFacts Initiative, U.S. Census Bureau's Small Area Income and Poverty Estimates Program, and the U.S. Department of Education's Local Education Agency (School District) Universe Survey Data. Two .csv files were too large to add to the /input folder, but they can be downloaded here: https://nces.ed.gov/ccd/pubagency.asp, https://www.census.gov/data/datasets/2011/demo/saipe/2011-state-and-county.html and https://www.census.gov/data/datasets/2012/demo/saipe/2012-state-and-county.html. (Note: It appears that the U.S. Census Department restructured its datafiles. When I originally downloaded the dataset, the 2011 and 2012 poverty estimates were combined into one file. Now, they exist in two separate files.) 
+
+# How to use
+To run both the Cleaning and Wrangling.ipynb and Graphs.ipynb files, download the /input folder files and first run the Cleaning and Wrangling.ipynb file. To only view the graphs, first download the /clean folder files.
